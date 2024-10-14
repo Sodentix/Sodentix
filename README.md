@@ -1,5 +1,5 @@
-## Hello there 👋
-# I am a learning Full-Stack-Developer
+# Hello there 👋
+## I am a learning Full-Stack-Developer
 
 <!--
 **Sodentix/Sodentix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
